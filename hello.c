@@ -5,6 +5,7 @@ void main(void) {
     printf("Let's update this code to github\n");
 }
 
-void fnPrintError(void) {
-    printf("error detected\n");
+// interface fnPrintError needs to be changed
+void fnPrintError(int a) {
+    printf("error detected %d\n", a);
 }
