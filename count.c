@@ -6,3 +6,7 @@ int count (int a) {
   printf("you enter %d\n", b);
   return b;
 }
+
+int num (int c) {
+  printf("Cound = %d\n", c);
+}
