@@ -1,3 +1,3 @@
-# HelloWorld
+# Capella tutorial
 
-This project is to instruct how to use github and git agent by Sejong Oh
+This project is to instruct how to use Capella for digital transformation
